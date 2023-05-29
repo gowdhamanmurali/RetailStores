@@ -1,0 +1,13 @@
+This is Retailstore Project
+
+
+1.List of items 
+
+2.S.No
+
+3.Quantity
+
+4.Price
+
+5.Discount
+
