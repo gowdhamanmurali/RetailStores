@@ -11,3 +11,7 @@ This is Retailstore Project
 5.Discount
 
 6.Available Quantity
+
+7.Latest Price
+
+8.Latest Product
