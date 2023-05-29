@@ -1,6 +1,5 @@
 This is Retailstore Project
 
-
 1.List of items 
 
 2.S.No
@@ -11,3 +10,4 @@ This is Retailstore Project
 
 5.Discount
 
+6.Available Quantity
